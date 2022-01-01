@@ -39,3 +39,15 @@ A simple MVP dApp to provide a blockchain based ticketing system for event manag
    * Companies may allow their loyal customers to have special experiences or have them attend NFT holders only sessions for example.
 
 4. **And much much more examples can be easily enabled by using NFTs as a way for tickets**
+
+---
+
+## **Similar Ideas / Repos**
+
+* <https://github.com/ashleshsortee/festival-marketplace>
+  
+* <https://github.com/StefanVitor/NFTicketize>
+
+* <https://www.get-protocol.io/>
+
+* <https://github.com/realPrimoh/nft-ticketing>
