@@ -51,3 +51,4 @@ A simple MVP dApp to provide a blockchain based ticketing system for event manag
 * <https://www.get-protocol.io/>
 
 * <https://github.com/realPrimoh/nft-ticketing>
+
