@@ -52,3 +52,8 @@ A simple MVP dApp to provide a blockchain based ticketing system for event manag
 
 * <https://github.com/realPrimoh/nft-ticketing>
 
+
+## Tech Stack
+- Front-end: ReactJS, hosted on Vercel
+- Blockchain: Solidity, Hardhat(?), EtheresJS (?)
+- Decentralized storage: IPFS
